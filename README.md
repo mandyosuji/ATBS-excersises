@@ -1,4 +1,4 @@
-# yourName
-Automate the Boring Stuff's while loop example 
-from page 37
-within chapter two
+# ATBS-excersises
+Here I will upload the files of the exercises I complete 
+from Al Sweigart's Automate the Boring Stuff (ATBS), 
+my main source material for learning code at the moment
